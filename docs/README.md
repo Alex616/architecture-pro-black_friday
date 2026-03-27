@@ -11,3 +11,7 @@
 ### 1.3 Кеширование
 
 [Диаграмма](diagrams/cache.png)
+
+### 5 Service Discovery и балансировка с API Gateway
+
+[Диаграмма](diagrams/api_gateway.png)
