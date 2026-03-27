@@ -15,3 +15,7 @@
 ### 5 Service Discovery и балансировка с API Gateway
 
 [Диаграмма](diagrams/api_gateway.png)
+
+### 6 CDN
+
+[Диаграмма](diagrams/cdn.png)
